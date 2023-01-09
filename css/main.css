@@ -1,0 +1,16 @@
+
+
+.btn:hover {
+    background-color: rgb(213, 213, 23);
+}
+.inp__1 {
+    border: 5px solid rgb(172, 255, 47);
+}
+
+.inp__2 {
+    border: 5px solid red;
+}
+
+.inp__3 {
+    border: 5px solid gold;
+}
